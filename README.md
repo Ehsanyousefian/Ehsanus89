@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Ehsanus89
-- 👀 I’m interested in learning 😁
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Ehsan Yousefian, web and application programmer, SEO strategist, business development through website design, digital marketing tools and virtual identity development.
 
 <!---
 Ehsanus89/Ehsanus89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
